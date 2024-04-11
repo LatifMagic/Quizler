@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  ::root {
+    --beige-color: #fde9f1;
+    --red-color: #ff6565;
+    --black-color: #141414;
+    --yellow-color: #f2fe03;
+  }
+  body {
+    background-color: #fde9f1;
+    font-family: "Rubik", sans-serif;
+  }
+}
