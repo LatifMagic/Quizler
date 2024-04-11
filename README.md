@@ -4,7 +4,7 @@ Quizler is a quiz application where users can select a category and difficulty l
 
 ## Try Quizler
 
-You can try [Quizler](quizler-ebon.vercel.app)
+You can try [Quizler](https://quizler-ebon.vercel.app)
 
 ## Features
 
